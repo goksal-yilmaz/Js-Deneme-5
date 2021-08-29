@@ -1,0 +1,19 @@
+{
+  "name": "deneme-5",
+  "version": "1.0.0",
+  "description": "2520, 1'den 10'a kadar olan sayıların her birine kalansız bölünebilen en küçük sayıdır. 1'den 20'ye kadar olan sayıların tamamına tam bölünebilen en küçük pozitif sayı kaçtır?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihaitachi0816/Js-Deneme-5.git"
+  },
+  "author": "\\\"Göksal Yılmaz\\\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihaitachi0816/Js-Deneme-5/issues"
+  },
+  "homepage": "https://github.com/uchihaitachi0816/Js-Deneme-5#readme"
+}
